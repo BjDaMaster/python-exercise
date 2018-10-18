@@ -9,7 +9,7 @@ i am trying self discipline
 
 if brushed and prayed:
 	print('first task done')
-else !brushed or !prayed:
+else:
 	print('the first task needs to be completed')
 
 #second task check
